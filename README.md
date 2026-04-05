@@ -13,7 +13,7 @@ Organize the paper about dexterous manipulation by my reading.
   - [Hardware System](#hardware-system)
   - [Tactile Sensing](#tactile-sensing)
   - [VLA](#vla)
-  - [Contact Learning](#contact-learning)
+  - [Compliance and Force Control](#compliance-and-force-control)
   - [Cool Idea](#cool-idea)
 
 ## Teleoperation
@@ -62,9 +62,12 @@ Organize the paper about dexterous manipulation by my reading.
 
 * [2024]Kim, M. J., Pertsch, K., Karamcheti, S., Xiao, T., Balakrishna, A., Nair, S., ... & Finn, C. (2024). Openvla: An open-source vision-language-action model. - [arXiv](https://arxiv.org/abs/2406.09246), [website](https://openvla.github.io/)
 
-## Contact Learning
+## Compliance and Force Control
 
 * [arXiv] Shi, H., Hu, S., Hou, Y., Wang, W., Liu, K., & Song, S. (2026). Minimalist Compliance Control. - [arXiv](https://arxiv.org/abs/2603.00913), [Website](https://minimalist-compliance-control.github.io/)
+* [arXiv] Hou, Y., Liu, Z., Chi, C., Cousineau, E., Kuppuswamy, N., Feng, S., Burchfiel, B., & Song, S. (2024). Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control. - [arXiv](https://arxiv.org/abs/2410.09309), [Website](https://adaptive-compliance.github.io/)
+* [arXiv] Margolis, G. B., Wang, M., Fey, N., & Agrawal, P. (2025). SoftMimic: Learning Compliant Whole-body Control from Examples. - [arXiv](https://arxiv.org/abs/2510.17792), [Website](https://gmargo11.github.io/softmimic/)
+* [arXiv] Zhi, P., Li, P., Yin, J., Jia, B., & Huang, S. (2025). Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation. - [arXiv](https://arxiv.org/abs/2505.20829), [Website](https://unified-force.github.io/)
 
 ## Cool Idea
 
