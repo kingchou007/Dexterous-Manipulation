@@ -1,18 +1,19 @@
-# Awesome-Dexterous-Manipulation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+# Dexterous-Manipulation
 
-To include your papers, please submit a new issue or pull request with the titles and necessary details. Thank you.
+Organize the paper about dexterous manipulation by my reading.
 
 ## Content
 
-- [Awesome-Dexterous-Manipulation  ](#awesome-dexterous-manipulation--)
+- [Dexterous-Manipulation](#dexterous-manipulation)
   - [Content](#content)
   - [Teleoperation](#teleoperation)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Learning From Human](#learning-from-human)
   - [Sim2Real](#sim2real)
-  - [Hardware](#hardware)
+  - [Hardware System](#hardware-system)
   - [Tactile Sensing](#tactile-sensing)
   - [VLA](#vla)
+  - [Contact Learning](#contact-learning)
   - [Cool Idea](#cool-idea)
 
 ## Teleoperation
@@ -41,8 +42,9 @@ To include your papers, please submit a new issue or pull request with the title
 * [RSS 2025] Maddukuri, A., Jiang, Z., Chen, L. Y., Nasiriany, S., Xie, Y., Fang, Y., ... & Zhu, Y. (2025). Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation.  - [arXiv](https://co-training.github.io/resources/paper.pdf), [website](https://co-training.github.io/)
 * Lin, T., Sachdev, K., Fan, L., Malik, J., & Zhu, Y. (2025). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids. - [arXiv](https://arxiv.org/abs/2502.20396)
 
-## Hardware
+## Hardware System
 
+* [RSS 2024] UMI
 * [IROS 2024] Romero, B., Fang, H. S., Agrawal, P., & Adelson, E. (2024, October). Eyesight hand: Design of a fully-actuated dexterous robot hand with integrated vision-based tactile sensors and compliant actuation. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1853-1860). IEEE. - [arXiv](https://arxiv.org/abs/2410.06440)
 * [Humanoids 2023] Mannam, P., Shaw, K., Bauer, D., Oh, J., Pathak, D., & Pollard, N. (2023, December). Designing anthropomorphic soft hands through interaction. In 2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids) (pp. 1-8). IEEE. - [arXiv](https://arxiv.org/pdf/2306.04784)
 * [RSS 2023] Shaw, K., Agarwal, A., & Pathak, D. (2023). Leap hand: Low-cost, efficient, and anthropomorphic hand for robot learning. - [arXiv](https://arxiv.org/abs/2309.06440)
@@ -59,6 +61,10 @@ To include your papers, please submit a new issue or pull request with the title
 ## VLA
 
 * [2024]Kim, M. J., Pertsch, K., Karamcheti, S., Xiao, T., Balakrishna, A., Nair, S., ... & Finn, C. (2024). Openvla: An open-source vision-language-action model. - [arXiv](https://arxiv.org/abs/2406.09246), [website](https://openvla.github.io/)
+
+## Contact Learning
+
+* [arXiv] Shi, H., Hu, S., Hou, Y., Wang, W., Liu, K., & Song, S. (2026). Minimalist Compliance Control. - [arXiv](https://arxiv.org/abs/2603.00913), [Website](https://minimalist-compliance-control.github.io/)
 
 ## Cool Idea
 
