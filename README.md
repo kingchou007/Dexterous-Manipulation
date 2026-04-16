@@ -53,6 +53,7 @@ Organize the paper about dexterous manipulation by my reading.
 
 ## Tactile Sensing
 
+* (2026) Zhang, Z., Ma, J., Yang, X., Wen, X., Zhang, Y., Li, B., Qin, Y., Liu, J., Zhao, C., Kang, L., Hong, H., Yin, Z., Torr, P., Su, H., Zhang, R., & Ma, D. TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance. - [arXiv](https://arxiv.org/abs/2601.20239)
 * (2025) Li, J., Wu, T., Zhang, J., Chen, Z., Jin, H., Wu, M., ... & Dong, H. Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation. - [arXiv](https://arxiv.org/abs/2505.13982), [Website](https://adaptac-dex.github.io/)
 * (2025) Wu, Q., Wang, H., Zhou, J., Xiong, X., & Lou, Y. TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation. - [Paper](https://ieeexplore.ieee.org/abstract/document/10766612)
 * (2024) Wu, T., Li, J., Zhang, J., Wu, M., & Dong, H. Canonical representation and force-based pretraining of 3d tactile for dexterous visuo-tactile policy learning. - [arXiv](https://arxiv.org/abs/2409.17549)
@@ -65,9 +66,12 @@ Organize the paper about dexterous manipulation by my reading.
 ## Compliance and Force Control
 
 * (2026) Shi, H., Hu, S., Hou, Y., Wang, W., Liu, K., & Song, S. Minimalist Compliance Control. - [arXiv](https://arxiv.org/abs/2603.00913), [Website](https://minimalist-compliance-control.github.io/)
+* (2026) Fang, H., Tang, S., Mei, M., Qin, H., He, Z., Chen, J., Feng, Y., Wang, C., Liu, W., He, Z., Lu, C., & Wang, S. Force Policy: Learning Hybrid Force-Position Control Policy under Interaction Frame for Contact-Rich Manipulation. - [arXiv](https://arxiv.org/abs/2602.22088), [Website](https://force-policy.github.io/)
 * (2025) Margolis, G. B., Wang, M., Fey, N., & Agrawal, P. SoftMimic: Learning Compliant Whole-body Control from Examples. - [arXiv](https://arxiv.org/abs/2510.17792), [Website](https://gmargo11.github.io/softmimic/)
 * (2025) Zhi, P., Li, P., Yin, J., Jia, B., & Huang, S. Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation. - [arXiv](https://arxiv.org/abs/2505.20829), [Website](https://unified-force.github.io/)
+* (2025) Chen, W., Xue, H., Wang, Y., Zhou, F., Lv, J., Jin, Y., Tang, S., Wen, C., & Lu, C. ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning. - [arXiv](https://arxiv.org/abs/2512.10946), [Website](https://implicit-rdp.github.io)
 * (2024) Hou, Y., Liu, Z., Chi, C., Cousineau, E., Kuppuswamy, N., Feng, S., Burchfiel, B., & Song, S. Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control. - [arXiv](https://arxiv.org/abs/2410.09309), [Website](https://adaptive-compliance.github.io/)
+* (2024) He, Z., Fang, H., Chen, J., Fang, H. S., & Lu, C. FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation. - [arXiv](https://arxiv.org/abs/2411.15753), [Website](https://tonyfang.net/FoAR/)
 
 ## Cool Idea
 
